@@ -55,8 +55,8 @@ class Textbox extends Component {
 		if (this.state.index >= this.state.max - 1) {
 			return <div className="content">
 					     <img id="horse" alt="horse" src={require('./horse.jpg').default} />
-					     <img id="roshan" alt="urfavs" src={require('./urfavs.JPG').default} />
-						 <img id="chowder"alt="swetreatwoohoo.netlify.app.isthenextone" src={require('./swetreatwoohoo.netlify.app.isthenextone.jpg').default} />
+					     <img id="urfavs" alt="urfavs" src={require('./urfavs.JPG').default} />
+						 <img id="peacecryswucket"alt="swetreatwoohoo.netlify.app.isthenextone" src={require('./swetreatwoohoo.netlify.app.isthenextone.jpg').default} />
 					   </div>;
 		}
 		return null;
