@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/zero/static/css/main.f3a80d42.chunk.css",
+    "main.js": "/zero/static/js/main.411f8239.chunk.js",
+    "main.js.map": "/zero/static/js/main.411f8239.chunk.js.map",
+    "runtime-main.js": "/zero/static/js/runtime-main.20f90488.js",
+    "runtime-main.js.map": "/zero/static/js/runtime-main.20f90488.js.map",
+    "static/js/2.7013b89e.chunk.js": "/zero/static/js/2.7013b89e.chunk.js",
+    "static/js/2.7013b89e.chunk.js.map": "/zero/static/js/2.7013b89e.chunk.js.map",
+    "static/js/3.16fe9592.chunk.js": "/zero/static/js/3.16fe9592.chunk.js",
+    "static/js/3.16fe9592.chunk.js.map": "/zero/static/js/3.16fe9592.chunk.js.map",
+    "index.html": "/zero/index.html",
+    "static/css/main.f3a80d42.chunk.css.map": "/zero/static/css/main.f3a80d42.chunk.css.map",
+    "static/js/2.7013b89e.chunk.js.LICENSE.txt": "/zero/static/js/2.7013b89e.chunk.js.LICENSE.txt",
+    "static/media/horse.jpg": "/zero/static/media/horse.33c24792.jpg",
+    "static/media/logo.6ce24c58.svg": "/zero/static/media/logo.6ce24c58.svg",
+    "static/media/swetreatwoohoo.netlify.app.isthenextone.jpg": "/zero/static/media/swetreatwoohoo.netlify.app.isthenextone.353661ed.jpg",
+    "static/media/urfavs.JPG": "/zero/static/media/urfavs.a8c52769.JPG"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.20f90488.js",
+    "static/js/2.7013b89e.chunk.js",
+    "static/css/main.f3a80d42.chunk.css",
+    "static/js/main.411f8239.chunk.js"
+  ]
+}
