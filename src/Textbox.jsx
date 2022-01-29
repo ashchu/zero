@@ -38,7 +38,7 @@ class Textbox extends Component {
 	}
 
 	renderBackwardsButton() {
-		if (this.state.index == 0) {
+		if (this.state.index === 0) {
 			return null;
 		}
 		return <button onClick={this.handleBackwards}>Previous</button>;
@@ -54,9 +54,9 @@ class Textbox extends Component {
 	renderContent() {
 		if (this.state.index >= this.state.max - 1) {
 			return <div className="content">
-					     <img id="horse" src={require('./horse.jpg').default} />
-					     <img id="roshan" src={require('./urfavs.JPG').default} />
-						 <img id="chowder" src={require('./swetreatwoohoo.netlify.app.isthenextone.jpg').default} />
+					     <img id="horse" alt="horse" src={require('./horse.jpg').default} />
+					     <img id="roshan" alt="urfavs" src={require('./urfavs.JPG').default} />
+						 <img id="chowder"alt="swetreatwoohoo.netlify.app.isthenextone" src={require('./swetreatwoohoo.netlify.app.isthenextone.jpg').default} />
 					   </div>;
 		}
 		return null;
